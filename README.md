@@ -131,9 +131,9 @@
 ## Get list of Routes by Train Id
 ### Request
 
-`GET /api/v1/stations/{id}/routes`
+`GET /api/v1/trains/{id}/routes`
 
-    curl -i -H 'Accept: application/json' https://myanmar-railway-api.vercel.app/api/v1/stations
+    curl -i -H 'Accept: application/json' https://myanmar-railway-api.vercel.app/api/v1/trains/1/routes
 
 ### Response
 
