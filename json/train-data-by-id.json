@@ -5,34 +5,18 @@
         "name2_mm": "ရန်ကုန် - မန္တလေး",
         "name_en": "1 UP",
         "name2_en": "Yangon - Mandalay",
-        "display_order": 1,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
         "type_name": "စာပို့ရထား",
+        "display_order": 1,
         "note": "ရက်ခြား"
     },
     {
         "id": "2",
         "name_mm": "အမှတ်(၂) အစုန်",
-        "name2_mm": "မန္တလေး - ရန်ကုန်\n",
+        "name2_mm": "မန္တလေး - ရန်ကုန်",
         "name_en": "2 DOWN",
         "name2_en": "Mandalay - Yangon",
-        "display_order": 2,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
         "type_name": "စာပို့ရထား",
+        "display_order": 2,
         "note": "ရက််ခြား"
     },
     {
@@ -41,16 +25,8 @@
         "name2_mm": "ရန်ကုန် - မန္တလေး",
         "name_en": "3 UP",
         "name2_en": "Yangon - Mandalay",
-        "display_order": 3,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
         "type_name": "အမြန်ရထား",
+        "display_order": 3,
         "note": "နေ့စဉ်"
     },
     {
@@ -59,16 +35,8 @@
         "name2_mm": "မန္တလေး - ရန်ကုန်",
         "name_en": "4 DOWN",
         "name2_en": "Mandalay - Yangon",
-        "display_order": 4,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
         "type_name": "အမြန်ရထား",
+        "display_order": 4,
         "note": "နေ့စဉ်"
     },
     {
@@ -77,16 +45,8 @@
         "name2_mm": "ရန်ကုန် - မန္တလေး",
         "name_en": "5 UP\n",
         "name2_en": "Yangon - Mandalay",
-        "display_order": 5,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
         "type_name": "အမြန်ရထား (လေအိတ်)",
+        "display_order": 5,
         "note": "နေ့စဉ်"
     },
     {
@@ -95,16 +55,8 @@
         "name2_mm": "မန္တလေး - ရန်ကုန်",
         "name_en": "6 DOWN",
         "name2_en": "Mandalay - Yangon",
-        "display_order": 6,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
         "type_name": "အမြန်ရထား (လေအိတ်)",
+        "display_order": 6,
         "note": "နေ့စဉ်"
     },
     {
@@ -113,16 +65,8 @@
         "name2_mm": "ရန်ကုန် - ပဲခူး",
         "name_en": "13 UP",
         "name2_en": "Yangon - Bago",
-        "display_order": 7,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
         "type_name": "စာပို့ရထား",
+        "display_order": 7,
         "note": "နေ့စဉ်"
     },
     {
@@ -131,16 +75,8 @@
         "name2_mm": "ပဲခူး - ရန်ကုန်",
         "name_en": "14 DOWN",
         "name2_en": "Bago - Yangon",
-        "display_order": 8,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
         "type_name": "စာပို့ရထား",
+        "display_order": 8,
         "note": "နေ့စဉ်"
     },
     {
@@ -148,17 +84,9 @@
         "name_mm": "အမှတ်(၇၁) အဆန်",
         "name2_mm": "ရန်ကုန် - ပြည်",
         "name_en": "71 UP",
-        "name2_en": null,
-        "display_order": 9,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "Yangon - Pyay",
         "type_name": "အမြန် ရထား",
+        "display_order": 9,
         "note": "နေ့စဉ်"
     },
     {
@@ -166,17 +94,9 @@
         "name_mm": "အမှတ်(၇၂) အစုန်",
         "name2_mm": "ပြည် - ရန်ကုန်",
         "name_en": "72 DOWN",
-        "name2_en": null,
-        "display_order": 10,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "Pyay - Yangon",
         "type_name": "အမြန် ရထား",
+        "display_order": 10,
         "note": "နေ့စဉ်"
     },
     {
@@ -184,17 +104,9 @@
         "name_mm": "အမှတ်(၆၁) အဆန်",
         "name2_mm": "ရန်ကုန် - ပုဂံ",
         "name_en": "61 UP",
-        "name2_en": null,
-        "display_order": 11,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "Yangon - Bagan",
         "type_name": "အမြန် ရထား",
+        "display_order": 11,
         "note": "သောကြာနေ့"
     },
     {
@@ -202,17 +114,9 @@
         "name_mm": "အမှတ်(၆၂) အစုန်",
         "name2_mm": "ပုဂံ - ရန်ကုန်",
         "name_en": "62 DOWN",
-        "name2_en": null,
-        "display_order": 12,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "အမြန် ရထား",
+        "display_order": 12,
         "note": "တနင်္ဂနွေနေ့"
     },
     {
@@ -220,17 +124,9 @@
         "name_mm": "အမှတ်(၆၃) အဆန်",
         "name2_mm": "ကြည့်မြင်တိုင် - ပြည်",
         "name_en": "63 UP",
-        "name2_en": null,
-        "display_order": 13,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 13,
         "note": "နေ့စဉ်"
     },
     {
@@ -238,17 +134,9 @@
         "name_mm": "အမှတ်(၆၄) အစုန်",
         "name2_mm": "ပြည် - ကြည့်မြင်တိုင်",
         "name_en": "64 DOWN",
-        "name2_en": null,
-        "display_order": 14,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 14,
         "note": "နေ့စဉ်"
     },
     {
@@ -256,17 +144,9 @@
         "name_mm": "အမှတ်(၈၁) အဆန်",
         "name2_mm": "ရန်ကုန် - မော်လမြိုင်",
         "name_en": "81 UP",
-        "name2_en": null,
-        "display_order": 15,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "အမြန်ရထား (လေအိတ်)",
+        "display_order": 15,
         "note": "နေ့စဉ်"
     },
     {
@@ -274,53 +154,9 @@
         "name_mm": "အမှတ်(၈၂) အစုန်",
         "name2_mm": "မော်လမြိုင် - ရန်ကုန်",
         "name_en": "82 DOWN",
-        "name2_en": null,
+        "name2_en": "",
+        "type_name": "အမြန်ရထား (လေအိတ်)",
         "display_order": 16,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
-        "type_name": "အမြန်ရထား (လေအိတ်)",
-        "note": "နေ့စဉ်"
-    },
-    {
-        "id": "17",
-        "name_mm": "အမှတ်(၈၉) အဆန်",
-        "name2_mm": "ရန်ကုန် - မော်လမြိုင်",
-        "name_en": "89 UP",
-        "name2_en": null,
-        "display_order": 17,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
-        "type_name": "အမြန်ရထား (လေအိတ်)",
-        "note": "နေ့စဉ်"
-    },
-    {
-        "id": "18",
-        "name_mm": "အမှတ်(၉၀) အစုန်",
-        "name2_mm": "မော်လမြိုင် - ရန်ကုန်",
-        "name_en": "90 DOWN",
-        "name2_en": null,
-        "display_order": 18,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
-        "type_name": "အမြန် ရထား",
         "note": "နေ့စဉ်"
     },
     {
@@ -328,17 +164,9 @@
         "name_mm": "အမှတ်(၁၀၃) အဆန်",
         "name2_mm": "ပျဉ်းမနား - တောင်တွင်းကြီး",
         "name_en": "103 UP",
-        "name2_en": null,
-        "display_order": 19,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "လူစီး ကုန်တင်ရထား",
+        "display_order": 19,
         "note": "နေ့စဉ်"
     },
     {
@@ -346,17 +174,9 @@
         "name_mm": "အမှတ်(၁၀၄) အစုန်",
         "name2_mm": "တောင်တွင်းကြီး - ပျဥ်းမနား",
         "name_en": "104 DOWN",
-        "name2_en": null,
-        "display_order": 20,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "လူစီး ကုန်တင်ရထား",
+        "display_order": 20,
         "note": "နေ့စဉ်"
     },
     {
@@ -364,17 +184,9 @@
         "name_mm": "အမှတ်(၁၅၃) အဆန်",
         "name2_mm": "တောင်ကြီး - ဆိုက်ခေါင်",
         "name_en": "153 UP",
-        "name2_en": null,
-        "display_order": 21,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "လူစီး ကုန်တင်ရထား",
+        "display_order": 21,
         "note": "၅-ရက်ခြား"
     },
     {
@@ -382,17 +194,9 @@
         "name_mm": "အမှတ်(၁၅၄) အစုန်",
         "name2_mm": "ဆိုက်ခေါင် - တောင်ကြီး",
         "name_en": "154 DOWN",
-        "name2_en": null,
-        "display_order": 22,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "လူစီး ကုန်တင်ရထား",
+        "display_order": 22,
         "note": "၅-ရက်ခြား"
     },
     {
@@ -400,17 +204,9 @@
         "name_mm": "အမှတ်(၁၃၁) အဆန်",
         "name2_mm": "ပြင်ဦးလွင် - ဂုတ်ထိပ်",
         "name_en": "131 UP",
-        "name2_en": null,
-        "display_order": 23,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 23,
         "note": "တနင်္ဂနွေနေ့"
     },
     {
@@ -418,17 +214,9 @@
         "name_mm": "အမှတ်(၁၃၂) အစုန်",
         "name2_mm": "ဂုတ်ထိပ် - ပြင်ဦးလွင်",
         "name_en": "132 DOWN",
-        "name2_en": null,
-        "display_order": 24,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 24,
         "note": "တနင်္ဂနွေနေ့"
     },
     {
@@ -436,17 +224,9 @@
         "name_mm": "အမှတ်(၁၄၁) အဆန်",
         "name2_mm": "သာစည် - ရွှေညောင်",
         "name_en": "141 UP",
-        "name2_en": null,
-        "display_order": 25,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 25,
         "note": "တနင်္လာနေ့"
     },
     {
@@ -454,17 +234,9 @@
         "name_mm": "အမှတ်(၁၄၂) အစုန်",
         "name2_mm": "ရွှေညောင် - သာစည်",
         "name_en": "142 DOWN",
-        "name2_en": null,
-        "display_order": 26,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 26,
         "note": "အင်္ဂါနေ့"
     },
     {
@@ -472,17 +244,9 @@
         "name_mm": "အမှတ်(၁၈၁) အဆန်",
         "name2_mm": "ပုသိမ် - ကြံခင်း",
         "name_en": "181 UP",
-        "name2_en": null,
-        "display_order": 27,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "အမြန် ရထား",
+        "display_order": 27,
         "note": "နေ့စဉ်"
     },
     {
@@ -490,17 +254,9 @@
         "name_mm": "အမှတ်(၁၈၂) အစုန်",
         "name2_mm": "ကြံခင်း - ပုသိမ်",
         "name_en": "182 DOWN",
-        "name2_en": null,
-        "display_order": 28,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "အမြန် ရထား",
+        "display_order": 28,
         "note": "နေ့စဉ်"
     },
     {
@@ -508,17 +264,9 @@
         "name_mm": "အမှတ်(၁၉၅) အဆန်",
         "name2_mm": "လက်ပံတန်း - သာရဝေါ",
         "name_en": "195 UP",
-        "name2_en": null,
-        "display_order": 29,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "လူစီး ကုန်တင်ရထား",
+        "display_order": 29,
         "note": "တနင်္လာနေ့"
     },
     {
@@ -526,17 +274,9 @@
         "name_mm": "အမှတ်(၁၉၆) အစုန်",
         "name2_mm": "သာရဝေါ - လက်ပံတန်း",
         "name_en": "196 DOWN",
-        "name2_en": null,
-        "display_order": 30,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "လူစီး ကုန်တင်ရထား",
+        "display_order": 30,
         "note": "တနင်္လာနေ့"
     },
     {
@@ -544,17 +284,9 @@
         "name_mm": "ပြည်တော်သာ(၂)",
         "name2_mm": "ပြည်တော်သာ - ရေချမ်းပြင်",
         "name_en": "P-2",
-        "name2_en": null,
-        "display_order": 31,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 31,
         "note": "နေ့စဉ်"
     },
     {
@@ -562,17 +294,9 @@
         "name_mm": "ပြည်တော်သာ(၁)",
         "name2_mm": "ရေချမ်းပြင် - ပြည်တော်သာ",
         "name_en": "P-1",
-        "name2_en": null,
-        "display_order": 32,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 32,
         "note": "နေ့စဉ်"
     },
     {
@@ -580,17 +304,9 @@
         "name_mm": "ပြည်တော်သာ(၄)",
         "name2_mm": "ပြည်တော်သာ - ရေချမ်းပြင်",
         "name_en": "P-4",
-        "name2_en": null,
-        "display_order": 33,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 33,
         "note": "နေ့စဉ်"
     },
     {
@@ -598,17 +314,279 @@
         "name_mm": "ပြည်တော်သာ(၃)",
         "name2_mm": "ရေချမ်းပြင် - ပြည်တော်သာ",
         "name_en": "P-3",
-        "name2_en": null,
-        "display_order": 34,
-        "type_price_mm": [
-            null,
-            null
-        ],
-        "type_price_en": [
-            null,
-            null
-        ],
+        "name2_en": "",
         "type_name": "စာပို့ရထား",
+        "display_order": 34,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "38",
+        "name_mm": "က - ၁",
+        "name2_mm": "အင်းစိန် - လှော်ကား လိုင်း",
+        "name_en": "KA - 1",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 35,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "62",
+        "name_mm": "က - ၂",
+        "name2_mm": "လှော်ကား - အင်းစိန် လိုင်း",
+        "name_en": "KHA - 2",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 36,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "39",
+        "name_mm": "က - ၃/၄",
+        "name2_mm": "မြို့ပတ်လိုင်း",
+        "name_en": "KA - 3 /4",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 37,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "40",
+        "name_mm": "က - ၅",
+        "name2_mm": "အင်းစိန် - ရန်ကုန် လိုင်း",
+        "name_en": "KA -  5",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 38,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "41",
+        "name_mm": "က - ၆/၇",
+        "name2_mm": "ရန်ကုန် - လှော်ကား လိုင်း",
+        "name_en": "KA - 6/7",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 39,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "63",
+        "name_mm": "က - ၈",
+        "name2_mm": "လှော်ကား - အင်းစိန် လိုင်း",
+        "name_en": "KHA - 8",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 40,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "42",
+        "name_mm": "ခ - ၁/၂",
+        "name2_mm": "မြို့ပတ်လိုင်း",
+        "name_en": "KHA - 1/2",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 41,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "43",
+        "name_mm": "ခ - ၃",
+        "name2_mm": "အင်းစိန် - ရန်ကုန် လိုင်း",
+        "name_en": "KHA - 3",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 42,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "44",
+        "name_mm": "ခ - ၄",
+        "name2_mm": "ရန်ကုန် - မင်္ဂလာဒုံ - အင်းစိန် လိုင်း",
+        "name_en": "KHA - 4",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 43,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "45",
+        "name_mm": "ဂ - ၁/၂",
+        "name2_mm": "အင်းစိန် -  ရန်ကုန် - တိုးကြောင်ကလေး လိုင်း",
+        "name_en": "GA- 1/2",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 44,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "46",
+        "name_mm": "ဂ - ၄",
+        "name2_mm": "ရန်ကုန် - တိုးကြောင်ကလေး လိုင်း",
+        "name_en": "GA - 4",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 45,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "47",
+        "name_mm": "စ - ၁",
+        "name2_mm": "အင်းစိန် - ရန်ကုန် လိုင်း",
+        "name_en": "SA - 1",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 46,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "48",
+        "name_mm": "စ - ၂",
+        "name2_mm": "မြို့ပတ်လိုင်း",
+        "name_en": "SA - 2",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 47,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "49",
+        "name_mm": "စ - ၃",
+        "name2_mm": "မြို့ပတ်လိုင်း",
+        "name_en": "SA - 3",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 48,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "50",
+        "name_mm": "စ - ၄",
+        "name2_mm": "ရန်ကုန် - မင်္ဂလာဒုံ - အင်းစိန် လိုင်း",
+        "name_en": "SA - 4",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 49,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "51",
+        "name_mm": "စ - ၅",
+        "name2_mm": "အင်းစိန် - ရန်ကုန် လိုင်း",
+        "name_en": "SA - 5",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 50,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "52",
+        "name_mm": "စ - ၆",
+        "name2_mm": "ရန်ကုန် - မင်္ဂလာဒုံ - အင်းစိန် လိုင်း",
+        "name_en": "SA - 6",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 51,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "53",
+        "name_mm": "င - ၁",
+        "name2_mm": "အင်းစိန် - ရန်ကုန် လိုင်း",
+        "name_en": "NGA - 1",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 52,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "54",
+        "name_mm": "င - ၂/၃",
+        "name2_mm": "ရန်ကုန် - အင်းစိန် - လှော်ကား လိုင်း",
+        "name_en": "NGA - 2/3",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 53,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "56",
+        "name_mm": "င - ၅",
+        "name2_mm": "အင်းစိန် - ရန်ကုန် လိုင်း",
+        "name_en": "NGA - 5",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 54,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "57",
+        "name_mm": "င - ၆/၇",
+        "name2_mm": "ရန်ကုန် - အင်းစိန် - လှော်ကား လိုင်း",
+        "name_en": "NGA - 6/7",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 55,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "60",
+        "name_mm": "ဂ - ၃",
+        "name2_mm": "တိုးကြောင်ကလေး - ရန်ကုန်လိုင်း",
+        "name_en": "GA - 3",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 56,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "61",
+        "name_mm": "ဂ - ၅",
+        "name2_mm": "တိုးကြောင်ကလေး - ရန်ကုန်လိုင်း",
+        "name_en": "GA - 5",
+        "name2_en": "",
+        "type_name": "ရန်ကုန်မြို့ပတ်ရထား",
+        "display_order": 57,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "70",
+        "name_mm": "107-UP",
+        "name2_mm": "တောင်တွင်းကြီး - ပုဂံ",
+        "name_en": "107-UP",
+        "name2_en": "Taungtwingyi - Bagan",
+        "type_name": "RBE (LOCAL)",
+        "display_order": 64,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "71",
+        "name_mm": "108-DN",
+        "name2_mm": "ပုဂံ - တောင်တွင်းကြီး",
+        "name_en": "108-DN",
+        "name2_en": "Bagan - Taungtwingyi",
+        "type_name": "RBE (LOCAL)",
+        "display_order": 65,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "72",
+        "name_mm": "105-UP",
+        "name2_mm": "ပျဥ်းမနား - တောင်တွင်းကြီး",
+        "name_en": "105-UP",
+        "name2_en": "Pyinmana - Taungtwingyi",
+        "type_name": "RBE (LOCAL)",
+        "display_order": 66,
+        "note": "နေ့စဉ်"
+    },
+    {
+        "id": "73",
+        "name_mm": "106-DN",
+        "name2_mm": "တောင်တွင်းကြီး - ပျဉ်းမနား",
+        "name_en": "106-DN",
+        "name2_en": "Taungtwingyi - Pyinmana",
+        "type_name": "RBE (LOCAL)",
+        "display_order": 67,
         "note": "နေ့စဉ်"
     }
 ]
