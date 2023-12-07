@@ -48,7 +48,50 @@
      }
     ]
 
- ## Get list of Trains
+## Get list of Routes by Station Id
+### Request
+
+`GET /api/v1/stations/{id}/routes`
+
+    curl -i -H 'Accept: application/json' https://myanmar-railway-api.vercel.app/api/v1/stations/1/routes
+
+### Response
+
+    HTTP/1.1 200 OK
+    Date: Thu, 04 Dec 2023 02:45:30 GMT
+    Status: 200 OK
+    Connection: close
+    Content-Type: application/json
+    Content-Length: 2
+
+    [
+        {
+        "id": "257",
+        "trainId": "1",
+        "stationId": "1",
+        "arrival_time": "",
+        "departure_time": "21:00",
+        "path_order": 0,
+        "ordinary_class_price": 6950,
+        "upper_class_price": null,
+        "sleeper_class_price": null,
+        "flag": ""
+        },
+        {
+        "id": "326",
+        "trainId": "2",
+        "stationId": "1",
+        "arrival_time": "10:00",
+        "departure_time": "",
+        "path_order": 34,
+        "ordinary_class_price": 6950,
+        "upper_class_price": null,
+        "sleeper_class_price": null,
+        "flag": ""
+        },
+    ]
+
+## Get list of Trains
 ### Request
 
 `GET /api/v1/trains`
@@ -83,6 +126,49 @@
       "type_name": "စာပို့ရထား",
       "note": "ရက်ခြား"
       }
+    ]
+
+## Get list of Routes by Train Id
+### Request
+
+`GET /api/v1/stations/{id}/routes`
+
+    curl -i -H 'Accept: application/json' https://myanmar-railway-api.vercel.app/api/v1/stations
+
+### Response
+
+    HTTP/1.1 200 OK
+    Date: Thu, 04 Dec 2023 02:45:30 GMT
+    Status: 200 OK
+    Connection: close
+    Content-Type: application/json
+    Content-Length: 2
+
+    [
+        {
+        "id": "257",
+        "trainId": "1",
+        "stationId": "1",
+        "arrival_time": "",
+        "departure_time": "21:00",
+        "path_order": 0,
+        "ordinary_class_price": 6950,
+        "upper_class_price": null,
+        "sleeper_class_price": null,
+        "flag": ""
+        },
+        {
+        "id": "259",
+        "trainId": "1",
+        "stationId": "42",
+        "arrival_time": "21:34",
+        "departure_time": "21:36",
+        "path_order": 1,
+        "ordinary_class_price": 150,
+        "upper_class_price": null,
+        "sleeper_class_price": null,
+        "flag": ""
+        },
     ]
 
 ## Disclaimer
