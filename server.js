@@ -8,13 +8,13 @@ server.use(middlewares);
 // Add this before server.use(router)
 server.use(
 	// Add custom route here if needed
-	// jsonServer.rewriter({
-	// 	"/api/v1/*": "/$1",
-	// })
+	jsonServer.rewriter({
+		"/api/v1/*": "/$1",
+	})
 
-	res.status(500).jsonp({
-	    error: "maintaintace mode on"
-	  })
+	// res.status(500).jsonp({
+	//     error: "maintaintace mode on"
+	//   })
 	
 );
 server.use(router);
